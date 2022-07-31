@@ -6,4 +6,4 @@ and [orient.b](https://github.com/DangerMouseB/coppertop-bones-demo/blob/main/bo
 Current state is the [coppertop-bones](https://github.com/DangerMouseB/coppertop-bones) python interface, 
 [type inference](https://github.com/DangerMouseB/coppertop-bones-demo/blob/main/jupyter/bones-news/infer.ipynb) with 
 higher-order functions, parametric polymorphism and message-sending (aka overloads), and the beginnings of a basic 
-[tree-code interprter](https://github.com/DangerMouseB/coppertop-bones-demo/blob/main/jupyter/bones-news/execute.ipynb).
+[tree-code interpreter](https://github.com/DangerMouseB/coppertop-bones-demo/blob/main/jupyter/bones-news/execute.ipynb).
