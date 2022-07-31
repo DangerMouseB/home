@@ -1,4 +1,4 @@
-In my spacetime I work on _bones_ - a simple fusion of kdb and Smalltalk for data wrangling and algo development.
+In my spare time I work on _bones_ - a simple fusion of kdb and Smalltalk for data wrangling and algo development.
 
 The target is code such as [partitions.b](https://github.com/DangerMouseB/coppertop-bones-demo/blob/main/bones/dm/linalg/partitions.b) 
 and [orient.b](https://github.com/DangerMouseB/coppertop-bones-demo/blob/main/bones/dm/linalg/orient.b).
